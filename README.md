@@ -6,6 +6,8 @@ A specific thing I wanted was to be able to create and update a public playlist,
 
 It was made using Jupyter Notebook via pipenv, so you may want to install them (or just grab the ```cliente_spotify.py``` file).
 
+If you are on Windows and want to test the only implemented function, get the ```GUI.exe``` file and you're good to go.
+
 Oh and that minimal GUI is in Spanish.
 
 ## Install Instructions
